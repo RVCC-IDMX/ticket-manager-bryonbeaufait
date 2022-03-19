@@ -26,10 +26,10 @@
     "nodemon": "^2.0.15",
     "prettier": "^2.6.0"
   },
-    "events": {
-      "start": "cls || clear"
-    },
-    "nodemonConfig": {
-      "delay": 3000
-    }
+  "events": {
+    "start": "cls || clear"
+  },
+  "nodemonConfig": {
+    "delay": 3000
   }
+}
